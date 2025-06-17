@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73f9455285a9a5b4ba65fe931e33310b, type: 3}
+  m_Name: Scene5
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: Kore, boku no owari da?
+    speaker: {fileID: 11400000, guid: a6a56bcf4c7a34c439a38353a52eb634, type: 2}
+    displayTime: 3
+  - text: DOUSHITE? KIMI JIYUUDA!
+    speaker: {fileID: 11400000, guid: aefbb9ba992442047a2de344bfece5f4, type: 2}
+    displayTime: 3
+  - text: Piye yo, tak kiro aku meh mati.
+    speaker: {fileID: 11400000, guid: a6a56bcf4c7a34c439a38353a52eb634, type: 2}
+    displayTime: 4
+  - text: WALAH ISO JOWO!
+    speaker: {fileID: 11400000, guid: aefbb9ba992442047a2de344bfece5f4, type: 2}
+    displayTime: 3
+  - text: "Yah\u2026 waktuku tidak lama lagi terima ini, sihir terakhirku. Dengan
+      ini kamu bisa menghetikan waktu dan menukar nyawa kunang-kunang api untuk teleportasi."
+    speaker: {fileID: 11400000, guid: a6a56bcf4c7a34c439a38353a52eb634, type: 2}
+    displayTime: 12
+  - text: (Orang ini keren juga bisa 3 bahasa.)
+    speaker: {fileID: 11400000, guid: aefbb9ba992442047a2de344bfece5f4, type: 2}
+    displayTime: 5

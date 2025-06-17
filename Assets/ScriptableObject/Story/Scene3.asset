@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73f9455285a9a5b4ba65fe931e33310b, type: 3}
+  m_Name: Scene3
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: Aku sdah terlalu tua untuk ini.
+    speaker: {fileID: 11400000, guid: b6e137ae4a5eb564ca42fe272cbbca85, type: 2}
+    displayTime: 4
+  - text: Bapak cepat turun. Aku harus menemukan orang tersayangku.
+    speaker: {fileID: 11400000, guid: aefbb9ba992442047a2de344bfece5f4, type: 2}
+    displayTime: 5
+  - text: Terima ini, dengan ini sabuk ini kamu bisa bergerak secepat angin dan melakukan
+      dash.
+    speaker: {fileID: 11400000, guid: b6e137ae4a5eb564ca42fe272cbbca85, type: 2}
+    displayTime: 7
+  - text: Terima kasih pak saya akan gunakan ini dengan baik.
+    speaker: {fileID: 11400000, guid: aefbb9ba992442047a2de344bfece5f4, type: 2}
+    displayTime: 5

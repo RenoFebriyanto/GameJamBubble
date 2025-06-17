@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 551a719af9a203440a8980600db13160, type: 3}
+  m_Name: NPC GABUT
+  m_EditorClassIdentifier: 
+  speakerName: NPC
+  textColor: {r: 1, g: 1, b: 1, a: 1}
+  characterImage: {fileID: 2798779446757520360, guid: 0792cf75defd5664094d0fe25e376c2b, type: 3}
+  isMainCharacter: 0
+  isSmallCharacter: 0

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73f9455285a9a5b4ba65fe931e33310b, type: 3}
+  m_Name: Scene4
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: "Kamu\u2026.. apakah kamu Sigma sejati?"
+    speaker: {fileID: 11400000, guid: 1eb65377c0eeeca4ca87e821f0e7bbb6, type: 2}
+    displayTime: 4
+  - text: Hah?
+    speaker: {fileID: 11400000, guid: aefbb9ba992442047a2de344bfece5f4, type: 2}
+    displayTime: 2
+  - text: Aku terluka parah, maaf aku tidak bisa seperti alpha yang menemani jalanmu.
+    speaker: {fileID: 11400000, guid: 1eb65377c0eeeca4ca87e821f0e7bbb6, type: 2}
+    displayTime: 6
+  - text: NGOMONG APA SIH!
+    speaker: {fileID: 11400000, guid: aefbb9ba992442047a2de344bfece5f4, type: 2}
+    displayTime: 3
+  - text: Terima ini, dengan ini kamu akan menjadi sigma sejati dan mencapai bintang
+      skibidi.
+    speaker: {fileID: 11400000, guid: 1eb65377c0eeeca4ca87e821f0e7bbb6, type: 2}
+    displayTime: 7
+  - text: Hah? Okeh, Makasih.
+    speaker: {fileID: 11400000, guid: aefbb9ba992442047a2de344bfece5f4, type: 2}
+    displayTime: 3

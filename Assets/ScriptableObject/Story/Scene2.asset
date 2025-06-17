@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73f9455285a9a5b4ba65fe931e33310b, type: 3}
+  m_Name: Scene2
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: Kamu tidak apa apa?
+    speaker: {fileID: 11400000, guid: aefbb9ba992442047a2de344bfece5f4, type: 2}
+    displayTime: 3
+  - text: Iya, tapi masih ada orang lain. Diatas, hanya kamu yang bisa menyelamatkannya
+    speaker: {fileID: 11400000, guid: 9b3bd8ff587751d41a2b537d32e5f547, type: 2}
+    displayTime: 7
+  - text: Orang tersayangku ada disini aku harus membawanya bersamaku.
+    speaker: {fileID: 11400000, guid: aefbb9ba992442047a2de344bfece5f4, type: 2}
+    displayTime: 5
+  - text: Ini, ini dulu adalah alat yang diberikan masterku padaku. Untuk memudahkanku
+      melompat. Aku menyimpannya sebagai jimat. Kamu dapat memilikinya untuk melakukan
+      lompatan ganda.
+    speaker: {fileID: 11400000, guid: 9b3bd8ff587751d41a2b537d32e5f547, type: 2}
+    displayTime: 14
